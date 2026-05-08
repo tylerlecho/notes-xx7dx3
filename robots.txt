@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tylerlecho.github.io/notes-xx7dx3/sitemap.xml
